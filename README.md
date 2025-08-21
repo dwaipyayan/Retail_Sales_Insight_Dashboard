@@ -1,5 +1,4 @@
-# Retail_Sales_Insight_Dashboard
-# 📊 Interactive Sales Dashboard
+# 📊Retail_Sales_Insight_Dashboard
 
 This project generates an **interactive sales dashboard** using Python, Pandas, and Plotly.
 It reads raw sales data from a CSV file, processes it, and saves an HTML dashboard that can be opened in any browser.
